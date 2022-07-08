@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class PageController {
-
+// This is just to direct navigate
 	@RequestMapping(value = "/")
 	public String loginPage()
 	{
