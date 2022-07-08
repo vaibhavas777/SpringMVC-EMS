@@ -30,7 +30,7 @@ import com.jbk.service.EmployeeService;
 @RequestMapping()
 public class EmployeeController {
 	
-	
+	//Employee Controller to check request and response
 	private static final Logger log = LoggerFactory.getLogger(EmployeeController.class);
 
 
